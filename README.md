@@ -38,6 +38,6 @@ MIT
 **Mais um curso da UpInside Treinamentos, faça bom uso!**
 
 [//]:#
-[Gustavo Web]: <mailto:pedro.leandrog@gmail.com.br>
+[Gustavo Web]: <mailto:pedro.leandrog@gmail.com>
 [UpInside Treinamentos]: <https://www.upinside.com.br>
 [phpMailer]: <https://github.com/PHPMailer/PHPMailer>
