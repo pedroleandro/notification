@@ -38,7 +38,6 @@ MIT
 **Mais um curso da UpInside Treinamentos, faça bom uso!**
 
 [//]:#
-[Gustavo Web]: <mailto:gustavo@upinside.com.br>
-[Robson V. Leite]: <mailto:robson@upinside.com.br>
+[Gustavo Web]: <mailto:pedro.leandrog@gmail.com.br>
 [UpInside Treinamentos]: <https://www.upinside.com.br>
 [phpMailer]: <https://github.com/PHPMailer/PHPMailer>
