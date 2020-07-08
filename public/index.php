@@ -4,11 +4,9 @@ require __DIR__ . "/../vendor/autoload.php";
 
 use Notification\Email\Email;
 
-$newEmail = new Email(2, 'smtp.gmail.com', 'developerfsphp@gmail.com', '9cPA8!Vhd3H*njBn',
-    'tls', 587, 'developerfsphp@gmail.com', 'Team Developer');
+$email = new Email(2, "mail.host.com", "your@email.com", "your-pass", "smtp secure (tls/ssl)", "port (587)",
+    "from@email.com", "From Name");
 
-$newEmail->send("Testando PHPMailer", "<p>Olá, Pedro!</p>",
-                "developerfsphp@gmail.com", "teamdeveloper",
-                "pedro.leandrog@gmail.com", "Pedro Leandro");
+$email->sendEmail("SUbject", "Content", "reply@email.com", "Replay Name", "address@email.com", "Address Name");
 
-var_dump($newEmail);
+var_dump($email);
